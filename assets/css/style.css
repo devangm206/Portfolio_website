@@ -595,6 +595,12 @@ dl, ol, ul {
 }
 **/
 /* Icons */
+#icon_img{
+	
+	width: 30px;
+	height: 30px;
+	contain:
+}
 
 ul.icons {
 	cursor: default;
